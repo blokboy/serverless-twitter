@@ -1,1 +1,5 @@
-{"version":2,"name":"stripe-zeit","builds":[{"src":"**/*.js","use":"@now/node"}]}
+{
+  "version":2,
+  "name":"stripe-zeit",
+  "builds":[{"src":"api/**/*.js","use":"@now/node"}]
+}
