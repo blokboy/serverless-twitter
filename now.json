@@ -6,6 +6,8 @@
     "CONSUMER_KEY": "@consumer-key",
     "CONSUMER_SECRET": "@consumer-secret",
     "ACCESS_TOKEN": "@access-token",
-    "ACCESS_TOKEN_SECRET": "@access-token-secret"
+    "ACCESS_TOKEN_SECRET": "@access-token-secret",
+    "BOT_ENDPOINT": "@bot-endpoint",
+    "BOT_USERNAME": "@bot-username"
   }
 }
